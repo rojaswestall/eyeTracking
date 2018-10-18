@@ -1,2 +1,2 @@
 # eyeTracking
-For Eye Tracking study with Deniz
+For Eye Tracking study with Deniz Sagnaklar
